@@ -5,3 +5,4 @@ git add _branch.md
 git commit branch
 git switch main
 git merge dev
+git branch -d dev
