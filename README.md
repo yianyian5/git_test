@@ -1,2 +1,3 @@
 # git_test
-test git functions
+test git functions with ubuntu
+
